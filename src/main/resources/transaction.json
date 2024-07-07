@@ -1,0 +1,37 @@
+[
+  {
+    "transactionId": "tx1001",
+    "userId": "user123",
+    "amount": 150.75,
+    "currency": "USD",
+    "timestamp": "2023-05-01T10:15:30Z"
+  },
+  {
+    "transactionId": "tx1002",
+    "userId": "user124",
+    "amount": 250.00,
+    "currency": "USD",
+    "timestamp": "2023-05-01T11:20:45Z"
+  },
+  {
+    "transactionId": "tx1003",
+    "userId": "user125",
+    "amount": 320.40,
+    "currency": "USD",
+    "timestamp": "2023-05-01T12:25:50Z"
+  },
+  {
+    "transactionId": "tx1004",
+    "userId": "user126",
+    "amount": 450.60,
+    "currency": "USD",
+    "timestamp": "2023-05-01T13:30:55Z"
+  },
+  {
+    "transactionId": "tx1005",
+    "userId": "user127",
+    "amount": 520.10,
+    "currency": "USD",
+    "timestamp": "2023-05-01T14:35:00Z"
+  }
+]
